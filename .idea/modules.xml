@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/pw2-play-Livros.iml" filepath="$PROJECT_DIR$/pw2-play-Livros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playLivros.iml" filepath="$PROJECT_DIR$/playLivros.iml" />
     </modules>
   </component>
 </project>
